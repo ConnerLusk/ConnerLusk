@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConnerLusk
-- 👀 I’m interested in machine learning and its implications in the financial market
+- 👀 I’m interested in the intersection of applied math and computer science
 - 📚 I’m currently a student at Northeastern University
 - 📫 How to reach me: lusk.c@northeastern.edu
 
