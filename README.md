@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ConnerLusk
-- 👀 I’m interested in the intersection of applied math and computer science
-- 📚 I’m currently a student at Northeastern University
-- 📫 How to reach me: lusk.c@northeastern.edu
+Venture Capital Associate
+Incoming Undergrad Researcher at Stanford Medicine
+Incoming Software Engineering Co-Op at Reprise
+Checkout connerlusk.com
+
 
 <!---
 ConnerLusk/ConnerLusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
