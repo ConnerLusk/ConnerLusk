@@ -1,7 +1,7 @@
-Venture Capital Associate \n
-Incoming Undergrad Researcher at Stanford Medicine
-Incoming Software Engineering Co-Op at Reprise
-Checkout connerlusk.com
+- Venture Capital Associate
+- Incoming Undergrad Researcher at Stanford Medicine
+- Incoming Software Engineering Co-Op at Reprise
+- Checkout connerlusk.com
 
 
 <!---
