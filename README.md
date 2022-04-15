@@ -6,12 +6,11 @@
 </div>
 
 ## About Me
-Hello
+My name is Conner Lusk and I am currently a second year Computer Science student at Northeastern University with an interest in applications of 
+machine learning and artifical intelligence in healthtech. Currently I am a venture capital associate at Samudra Pacific, an incoming undergraduate 
+research assistant at Stanford Medicine and an incoming software engineering co-op at Reprise. Checkout my personal
+[website!!](https://www.connerlusk.com)
 
-- Venture Capital Associate
-- Incoming Undergrad Researcher at Stanford Medicine
-- Incoming Software Engineering Co-Op at Reprise
-- Checkout connerlusk.com
 
 <!--START_SECTION:waka-->
 
