@@ -3,8 +3,6 @@
 - Incoming Software Engineering Co-Op at Reprise
 - Checkout connerlusk.com
 
+<!--START_SECTION:waka-->
 
-<!---
-ConnerLusk/ConnerLusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--END_SECTION:waka-->
