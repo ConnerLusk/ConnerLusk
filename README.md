@@ -1,3 +1,7 @@
+### Hello!! I'm Conner
+
+### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ConnerLusk.ConnerLusk)
+
 - Venture Capital Associate
 - Incoming Undergrad Researcher at Stanford Medicine
 - Incoming Software Engineering Co-Op at Reprise
@@ -7,7 +11,6 @@
   <a href="https://www.linkedin.com/in/connerlusk">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?ConnerLusk&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--START_SECTION:waka-->
