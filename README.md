@@ -32,11 +32,12 @@ research assistant at Stanford Medicine and an incoming software engineering co-
 <!--START_SECTION:waka-->
 
 ```text
-C             18 hrs 46 mins  ███████████████████░░░░░░   76.44 %
-C++           3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Perl          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Makefile      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+C             16 hrs 41 mins  ███████████████▒░░░░░░░░░   61.53 %
+Java          3 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+C++           3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Perl          1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Markdown      40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Makefile      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
