@@ -32,9 +32,12 @@ research assistant at Stanford Medicine and an incoming software engineering co-
 <!--START_SECTION:waka-->
 
 ```text
-JSON         12 mins         ████████████████████████▒   97.58 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+C++          2 hrs 41 mins   ██████████████████████░░░   87.45 %
+JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Python       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
