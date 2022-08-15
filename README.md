@@ -32,11 +32,9 @@ research assistant at Stanford Medicine and an incoming software engineering co-
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 32 mins   ██████████████░░░░░░░░░░░   56.36 %
-C++      3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.01 %
-Text     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python   5 hrs 20 mins   ████████████████████████▓   98.56 %
+CSV      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
