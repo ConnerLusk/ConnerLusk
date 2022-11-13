@@ -31,7 +31,9 @@ machine learning and artifical intelligence in healthtech. Currently I am a vent
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       15 mins         █████████████████████░░░░   84.45 %
+Git Config   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
