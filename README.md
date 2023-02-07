@@ -32,7 +32,7 @@ machine learning and artifical intelligence in healthtech. Currently I am a vent
 
 ```text
 SQL             4 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.86 %
-C++             3 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   36.41 %
+C++             3 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   36.42 %
 Python          50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
 Docker          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 Other           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
