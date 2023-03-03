@@ -31,12 +31,12 @@ machine learning and artifical intelligence in healthtech. Currently I am a vent
 <!--START_SECTION:waka-->
 
 ```text
-Java     14 hrs 15 mins  ████████████████████▓░░░░   82.07 %
-SQL      1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-YAML     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Python   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Text     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java       18 hrs 49 mins  █████████████████████▓░░░   86.09 %
+SQL        1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+YAML       1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Markdown   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Text       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Docker     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
