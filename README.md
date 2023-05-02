@@ -31,12 +31,12 @@ machine learning and artifical intelligence in healthtech. Currently I am a vent
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       3 hrs 46 mins   █████████████▒░░░░░░░░░░░   52.68 %
-Python       2 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.93 %
-sh           28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Vue.js       3 hrs 29 mins   █████████████░░░░░░░░░░░░   51.79 %
+Python       2 hrs 1 min     ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+sh           27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+C++          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
