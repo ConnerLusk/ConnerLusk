@@ -31,11 +31,11 @@ machine learning and artifical intelligence in healthtech. Currently I am a vent
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs 20 mins   ██████████████████▒░░░░░░   72.83 %
-Python       34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-JSON         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-CSV          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+C++          6 hrs 14 mins   █████████████████▓░░░░░░░   70.33 %
+Python       1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+C            20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
